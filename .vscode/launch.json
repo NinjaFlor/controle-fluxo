@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ExemploBreakContinue",
+            "request": "launch",
+            "mainClass": "ExemploBreakContinue",
+            "projectName": "controle-fluxo_4fa266e9"
+        },
+        {
+            "type": "java",
+            "name": "ExemploForArray",
+            "request": "launch",
+            "mainClass": "ExemploForArray",
+            "projectName": "controle-fluxo_4fa266e9"
+        },
+        {
+            "type": "java",
+            "name": "ExemploFor",
+            "request": "launch",
+            "mainClass": "ExemploFor",
+            "projectName": "controle-fluxo_4fa266e9"
+        },
+        {
+            "type": "java",
             "name": "App",
             "request": "launch",
             "mainClass": "App",
